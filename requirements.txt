@@ -1,0 +1,8 @@
+yfinance==0.1.54
+GetOldTweets3==0.0.11
+treeinterpreter==0.2.2
+nltk==3.6.3
+matplotlib==3.3.4
+pandas==1.0.3
+numpy==1.18.3
+scikit-learn==0.24.2
